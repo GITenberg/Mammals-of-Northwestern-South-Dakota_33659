@@ -1,0 +1,33 @@
+_repo: Mammals-of-Northwestern-South-Dakota_33659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Andersen, Kenneth W.
+    gutenberg_agent_id: '36524'
+    url: http://www.gutenberg.org/2009/agents/36524
+  - agent_name: Jones, J. Knox
+    birthdate: 1929
+    deathdate: 1992
+    gutenberg_agent_id: '33991'
+    url: http://www.gutenberg.org/2009/agents/33991
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33659'
+  lccn: '77634834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mammals -- South Dakota'
+title: Mammals of Northwestern South Dakota
+url: http://www.gutenberg.org/ebooks/33659
